@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+The Project Link: [Clone Project](https://richest-selfmade-woman-clone.netlify.app/)
 
 ## Available Scripts
 
